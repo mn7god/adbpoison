@@ -1,5 +1,4 @@
 # adbpoison  
-![Descrição da imagem](https://raw.githubusercontent.com/w3irdguy/adbpoison/refs/heads/main/adbp.png)
 
 A Simple Adb Multi-Function, Including Payload Creator And Executer.
 
